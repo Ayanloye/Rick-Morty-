@@ -1,0 +1,12 @@
+{
+  "searchField":"input",
+  "characterList":"div#root > div > div:nth-of-type(2)",
+  "firstName":"Morty",
+  "lastName":"Smith",
+  "fullName":"Morty Smith",
+  "locationFilter":"select[class='forms_defaultInput__3F6Ma']",
+  "favouriteCharacter":"button[data-test-id='character-Rick-Sanchez']",
+  "favouriteCharacter2":"button[data-test-id='character-Morty-Smith']",
+  "favouriteCharacter3":"button[data-test-id='character-Summer-Smith']",
+  "favouriteTab":"button[data-test-id='list-Favorites']"
+}
